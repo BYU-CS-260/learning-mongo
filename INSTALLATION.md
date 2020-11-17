@@ -56,7 +56,7 @@ Mongo will run on port `27017` by default.
 To check whether Mongo is running:
 
 ```
-sudo systemctl status mongodb
+sudo systemctl status mongodb or sudo service mongodb start
 ```
 
 To stop Mongo:
